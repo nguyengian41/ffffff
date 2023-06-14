@@ -1,2 +1,1 @@
-# ffffff
-fffff
+.env.example
